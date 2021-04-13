@@ -1,8 +1,11 @@
 [package]
 name = "casper_types_derive"
 version = "0.1.0"
+description = "Use struct types in Casper contracts without boilerplate."
 authors = ["Ruslan Fadeev <kinrany@yandex.com>"]
 edition = "2018"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Kinrany/casper_types_derive"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
